@@ -1,0 +1,4 @@
+CREATE TABLE musica ( 
+    id INT AUTO_INCREMENT PRIMARY KEY, 
+    nome_musica VARCHAR(255) NOT NULL 
+);
